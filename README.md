@@ -6,6 +6,9 @@ apasionado por la proteccion de datos y infraestructura critica. Mi enfoque se c
 mitigar vulnerabilidades y garantizar un entorno operativo y seguro que protejan los activos criticos de la empresa/Institucion. Aspiro a aplicar
 todo mi conocimiento tecnico y teorico al servicio de la institucion respectiva valorando la integridad, confidencialidad y disponibilidad.
 
+##Declaracion laboral
+  Trabajo como Tecnico Soporte TI N1 y N2 brindando soporte tecnico a usuarios en hardware, software y redes ademas de solucionar problemas relacionados al ERP de la empresa, configuro y mantengo equipos de Windows, Diagnostico y soluciono incidencias de primer y segundo nivel, Actualmente colaboro con la implementacion y mejora de el sistema interno, documento procedimientos
+
 
 ### Puntos Fuertes
   1. **Base Tecnica**: Cuento con una base tecnica en soporte N1, conocimientos de Networking (Config de Redes, Administracion de redes, Cableado Estructurado), Configuracion de Firewalls (ACL), Conocimiento normativo de Ciberseguridad (ISO 27001)
